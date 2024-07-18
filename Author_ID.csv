@@ -1,0 +1,251 @@
+Authors,n,Author_ID
+Alexandra M Klein,9,1
+Ingolf Steffan-Dewenter,9,2
+Claire Kremen,8,3
+Rachael Winfree,8,4
+Simon G Potts,8,5
+Teja Tscharntke,7,6
+Sarah Greenleaf,6,7
+Saul A Cunningham,6,8
+Blande F Viana,5,9
+Lucas A Garibaldi,5,10
+Marcelo A Aizen,5,11
+Margaret M Mayfield,5,12
+Neal Williams,5,13
+Riccardo Bommarco,5,14
+Taylor H Ricketts,5,15
+Luísa G Carvalheiro,4,16
+Maj Rundlöf,4,17
+Natacha P Chacoff,4,18
+Yael Mandelik,4,19
+Andrea Holzschuh,3,20
+Barbara Gemmill-Herren,3,21
+Catrin Westphal,3,22
+Hajnalka Szentgyörgyi,3,23
+Hisatomo Taki,3,24
+Jacobus C Biesmeijer,3,25
+Jan H Dudenhöffer,3,26
+Kristin Krewenka,3,27
+Lora Morandin,3,28
+Rufus Isaacs,3,29
+Stephen Buchmann,3,30
+Adam J Vanbergen,2,31
+Brad Howlett,2,32
+Breno M Freitas,2,33
+Carlos H Vergara,2,34
+Carsten Thies,2,35
+Christina M Kennedy,2,36
+Christof Schüepp,2,37
+Claire Brittain,2,38
+Cristina Botías,2,39
+Daniel Cariveau,2,40
+Dave Goulson,2,41
+David W Roubik,2,42
+Dennis VanEngelsdorp,2,43
+Diana Cox-Foster,2,44
+Diego P Vázquez,2,45
+Gary Paul Nabhan,2,46
+Georg KS Andersson,2,47
+Gideon Pisanty,2,48
+Graham H Pyke,2,49
+Gretchen LeBuhn,2,50
+Henrik G Smith,2,51
+Ignasi Bartomeus,2,52
+Jaboury Ghazoul,2,53
+James Regetz,2,54
+Jay D Evans,2,55
+Jeff Ollerton,2,56
+Jeffery S Pettis,2,57
+Josef Settele,2,58
+Juliana Hipólito,2,59
+Lawrence D Harder,2,60
+Lina Herbertsson,2,61
+Mark Otieno,2,62
+Menno Reemer,2,63
+Romina Rader,2,64
+Smitha Krishnan,2,65
+Steven K Javorek,2,66
+Ørjan Totland,1,67
+Abby L Kalkstein,1,68
+Achim Gathmann,1,69
+Agustin Saez,1,70
+Alana L Burley,1,71
+Alberto Burquez,1,72
+Alfred Ochieng’,1,73
+Amelia V González‐Porto,1,74
+Amparo Lázaro,1,75
+Anders Nielsen,1,76
+Andreas Kruess,1,77
+Andrew Drysdale,1,78
+Anne Bogdanski,1,79
+Anne‐Line Bjerknes,1,80
+Anthony D Arthur,1,81
+AP Schaffers,1,82
+Aránzazu Meana,1,83
+Axel Decourtye,1,84
+Bach Kim Nguyen,1,85
+Benjamin Foully,1,86
+Bernard E Vaissière,1,87
+Björn K Klatt,1,88
+Brian A Nault,1,89
+Bruce Pavlik,1,90
+Bryan N Danforth,1,91
+C Eugene Jones,1,92
+Camila Q Lemos,1,93
+Caroline L Gross,1,94
+CD Thomas,1,95
+Charles B Fenster,1,96
+Chris Mullin,1,97
+Christof Bürger,1,98
+Claude Saegerman,1,99
+Claudio Gratton,1,100
+Colleen L Seymour,1,101
+Cory S Sheffield,1,102
+Daniel F Mayer,1,103
+Dara A Stanley,1,104
+David E Pattemore,1,105
+David Inouye,1,106
+David Kleijn,1,107
+David M Geiser,1,108
+David R Tarpy,1,109
+Edward C Holmes,1,110
+Elizabeth E Crone,1,111
+Elizabeth Elle,1,112
+Elizabeth Nicholls,1,113
+Ellen L Rotheray,1,114
+Encarna Garrido Bailón,1,115
+Eric Haubruge,1,116
+Eric L Charnov,1,117
+Eric Lonsdorf,1,118
+Fabrice Requier,1,119
+Faye Benjamin,1,120
+Felix Herzog,1,121
+Felix L Wackers,1,122
+Frank Jauker,1,123
+Gordon Allen-Wardell,1,124
+Gustavo Palacios,1,125
+H Ronald Pulliam,1,126
+Hannah R Gaines,1,127
+Harold Koopowitz,1,128
+HG Baker,1,129
+Hien T Ngo,1,130
+Ingemar Fries,1,131
+Iris Motzke,1,132
+James Cane,1,133
+James D Thomson,1,134
+James H Cane,1,135
+James P Strange,1,136
+Jan Fredrik Simons,1,137
+Jane C Stout,1,138
+Jason M Tylianakis,1,139
+Jean Aptel,1,140
+Jean-François Odoux,1,141
+Jeffrey D Lozier,1,142
+Jeffrey Hui,1,143
+Jeroen Scheper,1,144
+Jessica Petersen,1,145
+Jim Frazier,1,146
+Johanna Yourstone,1,147
+John C Marlin,1,148
+Jonathan B Koch,1,149
+José L Bernal,1,150
+Juan J Jiménez,1,151
+Juan M Morales,1,152
+Julianna K Wilson,1,153
+Junhui Zhai,1,154
+Kathryn Kennedy,1,155
+Keith S Delaplane,1,156
+Lars Chittka,1,157
+Laura A Burkle,1,158
+Laura Barrios,1,159
+Laurence Packer,1,160
+Laurie Adams,1,161
+Leellen F Solter,1,162
+Lisa A Neame,1,163
+Liwang Cui,1,164
+Lovisa Nilsson,1,165
+Lynn V Dicks,1,166
+M Jesus Del Nozal,1,167
+Mady Hornig,1,168
+Maile C Neel,1,169
+Mariano Higes,1,170
+Martin H Entling,1,171
+Mary V Price,1,172
+Maryann Frazier,1,173
+Maxime Beguin,1,174
+Mia Park,1,175
+Michael Egholm,1,176
+Michael PD Garratt,1,177
+Michal Woyciechowski,1,178
+Michele R Dudash,1,179
+Mickaël Henry,1,180
+Mike Edwards,1,181
+Mrill Ingram,1,182
+Nancy A Moran,1,183
+Natália de O. Pereira,1,184
+Nikolas M Waser,1,185
+Nils Cordes,1,186
+Ohad Afik,1,187
+Oliver Schweiger,1,188
+Orianne Rollin,1,189
+Ove Jonsson,1,190
+Owen T Lewis,1,191
+Paul Allen Cox,1,192
+Paul Wilson,1,193
+Penelope R Whitehorn,1,194
+Peter Bernhardt,1,195
+Peter Feinsinger,1,196
+Peter Kevan,1,197
+Peter Neumann,1,198
+PG Kevan,1,199
+Phenix-Lan Quan,1,200
+Phillip Torchio,1,201
+Pierrick Aupinel,1,202
+Pilar García Palencia,1,203
+R Ohlemuller,1,204
+Ramiro Aguilar,1,205
+Raquel Martín‐Hernández,1,206
+RJMC Kleukers,1,207
+Robert Minckley,1,208
+Robyn Underwood,1,209
+Rodrigo Medellin,1,210
+Ron Bitner,1,211
+Rosemary Hill,1,212
+Sam Tarrant,1,213
+Sandra AM Lindström,1,214
+Sean Conlan,1,215
+Sean R Griffin,1,216
+Sergio Medellin-Morales,1,217
+Shalene Jha,1,218
+Stein Joar Hegland,1,219
+Stephanie O’connor,1,220
+Stephen K Hutchison,1,221
+Steve Walker,1,222
+Stuart PM Roberts,1,223
+Sue Jaggar,1,224
+Sydney A Cameron,1,225
+Sylvie Tchamitchian,1,226
+T'ai Roulston,1,227
+Terry L Griswold,1,228
+Theodore Munyuli,1,229
+Thomas Briese,1,230
+Thomas C Wanger,1,231
+Thomas D Breeze,1,232
+Thorsten R Pedersen,1,233
+Tiffany M Knight,1,234
+Timothy H Keitt,1,235
+Tom Peeters,1,236
+Ute Münzenberg,1,237
+Vera Imperatriz-Fonseca,1,238
+Veronica Hederström,1,239
+Victor M Monteiro,1,240
+Vince Martinson,1,241
+Vincent Tepedino,1,242
+Virginia Dalton,1,243
+Virginie Boreux,1,244
+W Ian Lipkin,1,245
+W Scott Armbruster,1,246
+Warrick Nelson,1,247
+WE Kunin,1,248
+William E Kunin,1,249
+Yanping Chen,1,250
